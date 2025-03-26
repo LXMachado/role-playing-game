@@ -1,5 +1,5 @@
 🎮 Role-Playing Game (RPG)
-(Optional: Add a screenshot of the game in action)
+
 
 🛡️ About the Project
 This is a browser-based Role-Playing Game (RPG) built with JavaScript. The game features turn-based combat, character progression, and an engaging battle system. Players can explore, fight enemies, and upgrade their abilities as they progress through the adventure.
